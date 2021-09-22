@@ -6,4 +6,4 @@ const store = createStore(
     {}
 )
 
-export const store
+export default store
